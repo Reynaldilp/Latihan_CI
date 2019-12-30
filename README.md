@@ -2,5 +2,5 @@
 Nama: Reynaldi Lesmana Putra <br>
 Kelas: TIF RP 17 CID C <br>
 NPM: 17111116 <br>
-Latihan CI
+Latihan CI <br>
 ------------------------------------------------------------ <br>
