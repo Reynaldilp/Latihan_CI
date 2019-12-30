@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# latihan_ci
+------------------------------------------------------------ <br>
+Nama: Reynaldi Lesmana Putra <br>
+Kelas: TIF RP 17 CID C <br>
+NPM: 17111116 <br>
 Latihan CI
-=======
-# latihan_oop_ci
-ini adalah latihan oop menggunakan code igniter atas nama Azhar Ryad npm 17 111 324
->>>>>>> latihan_ci
+------------------------------------------------------------ <br>
